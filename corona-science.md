@@ -241,7 +241,7 @@ send them.
 
  * Are 'superspreading events' important? Probably yes. May drive &gt;80% of
    transmission. This is a good rationale for canceling large events.
-   Technical term is 'overdispersion'
+   Technical term is 'overdispersion'. An [anecdote](https://twitter.com/BioTurboNick/status/1237467872588251136)
  * Children get infected readily with COVID-19 but they have very mild
    disease. But do they spread it effectively? In other words, does closing
    schools help a lot (directly)? It is known that closing schools binds
