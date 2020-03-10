@@ -10,7 +10,10 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 10th of March 14:26 UTC.
+Science Journal". Latest update: 10th of March 20:28 UTC. View history of
+this page [on
+GitHub](https://github.com/ahupowerdns/corona-science/commits/master), where
+you can also submit changes, fixes and updates.
 
 There is [sufficient other
 content](https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/) out there that aims to tell you if things
