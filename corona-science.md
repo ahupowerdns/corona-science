@@ -108,6 +108,25 @@ sentences "Importantly, the scientists could not grow viruses from throat swabs 
 infections.", but also "The researchers found very high levels of virus emitted from the throat of patients from the earliest point in their illness —when people are generally still going about their daily routines. Viral shedding dropped after day 5 in all but two of the patients, who had more serious illness. The two, who developed early signs of pneumonia, continued to shed high levels of virus from the throat until about day 10 or
 11.".
 
+Another way of testing is by measuring if a patient has generated antibodies
+against COVID-19. This is a fascinating area which I am reading up on (books
+arrive on the 10th I hope). There are early and later antibody responses
+(IgM and IgG respectively). Excitingly, it appears to be possible to
+determine presence of IgM and IgG for COVID-19 in 10 minutes based on a drop
+of blood.
+
+One such test is described
+[on this page](https://www.biomedomics.com/products/infectious-disease/covid-19-rt/),
+which includes manuals and protocols.
+
+It appears that such a test will also allow you to 'look into the past' -
+even if someone recovered, I think you can still see IgG antibodies.  
+
+I hope to remove a lot of the caveats from these paragraphs tomorrow. This
+kind of testing may be extremely helpful if we are lucky, because doing
+[PCR](https://berthub.eu/articles/posts/dna-grep-2019-ncov/) takes hours,
+requires special equipment and is quite laborious.
+
 Antiviral medicines: will they help?
 ------------------------------------
 This is actually a more complicated question: who will they help and when? 
@@ -169,7 +188,7 @@ there is solid science behind the efforts.
 Can you stop the epidemic?
 --------------------------
 Oddly enough, it does appear you can pause it with great effort.  Notably
-China, Hong Kong, Singapore appear to have been able to slow down things
+China, Hong Kong, Singapore, Taiwan appear to have been able to slow down things
 hugely. Various academic papers have derived that after measures were in place,
 every patient infected only 0.3 new patients in Wuhan.  But with a drastic
 impact.
