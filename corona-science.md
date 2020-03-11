@@ -10,9 +10,10 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 11th of March 15:52 UTC. View history of
+Science Journal". Latest update: 11th of March 20:49 UTC. View history of
 this page [on
-GitHub](https://github.com/ahupowerdns/corona-science/commits/master), where
+GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
+([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
 you can also submit changes, fixes and updates.
 
 There is [sufficient other
@@ -126,6 +127,31 @@ I hope to remove a lot of the caveats from these paragraphs tomorrow. This
 kind of testing may be extremely helpful if we are lucky, because doing
 [PCR](https://berthub.eu/articles/posts/dna-grep-2019-ncov/) takes hours,
 requires special equipment and is quite laborious.
+
+A brief intermezzo: reading about medical breakthroughs
+-------------------------------------------------------
+Because I keep track of a few unfortunate medical conditions for family and
+friends, I am quite well versed in reading about "medical breakthroughs".
+These happen a lot, at least on paper. It takes quite some skill to find out
+if there is an actual breakthrough behind the hype.
+
+I wrote about this before [way back in
+2013](https://bert-hubert.blogspot.com/2013/07/a-null-result-bonus-to-improve-science.html),
+but in short, we have a veritable chain of people who want to believe,
+including us.  This can distort the reality.
+
+A cautious observation during patient treatment ('14 out of 20 patients
+improved in clinical measurements') is improved slightly by the institute PR
+department to 'most patients improved'.  A journalist, who also
+wants to believe may spice this up a bit more: 'most of the patients tested
+were cured'. Meanwhile, we as readers also want to believe, so we might not
+pay that much attention to caveats. For example, perhaps the "cure" worked,
+but only on a very specific subclass of patients. If we don't pay real close
+attention, we may end up believing we read there was a cure for the whole
+disease.
+
+Keep this in mind when reading about COVID-19 cures or treatments that will
+surely be reported in the coming weeks. 
 
 Antiviral medicines: will they help?
 ------------------------------------
