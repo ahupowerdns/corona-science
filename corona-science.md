@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-10T09:15:25+01:00
+date: 2020-03-11T16:51:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 10th of March 20:28 UTC. View history of
+Science Journal". Latest update: 11th of March 15:52 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master), where
 you can also submit changes, fixes and updates.
@@ -166,7 +166,9 @@ has been effective on patients in
 [Italy](https://www.leggo.it/italia/cronache/coronavirus_farmaco_anti_artrite_pazienti_curati_napoli_oggi_8_marzo_2020-5099254.html)
 and [China](http://chinaxiv.org/abs/202003.00026). But these are very early
 observational reports. Actemra is a 'blockbuster' arthritis drug, so we know
-a lot about it.
+a lot about it. As of the 11th of March, there are a mounting number of
+[anecdotes](https://www.repubblica.it/oncologia/news/2020/03/11/news/coronavirus_buoni_risultati_su_due_pazienti_gravi_con_tocilizumab_ora_serve_un_protocollo_per_estendere_l_uso_del_farmaco-250937051/) that Actemra is effective for certain patients, and Italy is
+rolling out broader use.
 
 In short, these medicines do not specifically kill or inhibit the virus, but
 they aim to help fight off its effects & keep the patient alive.
