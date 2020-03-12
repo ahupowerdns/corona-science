@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-11T16:51:25+01:00
+date: 2020-03-12T10:40:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 11th of March 20:49 UTC. View history of
+Science Journal". Updated frequently. Latest update: 12th of March 10:49 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -32,9 +32,6 @@ document I try to filter out the stuff which has a consensus forming around
 it, or looks very plausible.
 
 Here goes.
-
-This document will be updated frequently and is currently in very early
-form, notably lacking many links to reliable sites and papers.
 
 Feedback, content & interesting links are VERY welcome on bert@hubertnet.nl
 or [@PowerDNS_Bert](https://twitter.com/PowerDNS_Bert).
@@ -88,6 +85,9 @@ the virus - in our goal to stem the epidemic, even 10% reduction in
 transmission can be helpful if it takes the reproduction number just under
 1.0.
 
+Some discussion is in this [AP article on Snopes.com
+(!)](https://www.snopes.com/ap/2020/03/11/will-heat-stop-the-spread-of-new-virus-no-one-really-knows/).
+
 Testing, infectiveness
 ----------------------
 Earlier I wrote a bit on [how COVID-19 testing
@@ -110,23 +110,24 @@ infections.", but also "The researchers found very high levels of virus emitted 
 11.".
 
 Another way of testing is by measuring if a patient has generated antibodies
-against COVID-19. This is a fascinating area which I am reading up on (books
-arrive on the 10th I hope). There are early and later antibody responses
+against COVID-19. This is a fascinating area which I am reading up on ([books
+have arrived](https://twitter.com/PowerDNS_Bert/status/1237788602186293249)). There are early and later antibody responses
 (IgM and IgG respectively). Excitingly, it appears to be possible to
 determine presence of IgM and IgG for COVID-19 in 10 minutes based on a drop
-of blood.
+of blood. Less excitingly, it also appears IgM is only present 1 or 2 weeks
+after infection.
 
 One such test is described
 [on this page](https://www.biomedomics.com/products/infectious-disease/covid-19-rt/),
 which includes manuals and protocols.
 
-It appears that such a test will also allow you to 'look into the past' -
+It appears that such a test will mainly allow you to 'look into the past' -
 even if someone recovered, I think you can still see IgG antibodies.  
 
-I hope to remove a lot of the caveats from these paragraphs tomorrow. This
-kind of testing may be extremely helpful if we are lucky, because doing
-[PCR](https://berthub.eu/articles/posts/dna-grep-2019-ncov/) takes hours,
-requires special equipment and is quite laborious.
+This kind of testing may have a role, but it is no substitute for doing
+[PCR](https://berthub.eu/articles/posts/dna-grep-2019-ncov/), which takes
+hours, requires special equipment and is quite laborious, because it takes a
+long time for antibodies to appear.
 
 A brief intermezzo: reading about medical breakthroughs
 -------------------------------------------------------
@@ -137,11 +138,11 @@ if there is an actual breakthrough behind the hype.
 
 I wrote about this before [way back in
 2013](https://bert-hubert.blogspot.com/2013/07/a-null-result-bonus-to-improve-science.html),
-but in short, we have a veritable chain of people who want to believe,
+but in short, we have a veritable chain of people who "want to believe",
 including us.  This can distort the reality.
 
 A cautious observation during patient treatment ('14 out of 20 patients
-improved in clinical measurements') is improved slightly by the institute PR
+improved in clinical measurements') is spiced up slightly by the institute PR
 department to 'most patients improved'.  A journalist, who also
 wants to believe may spice this up a bit more: 'most of the patients tested
 were cured'. Meanwhile, we as readers also want to believe, so we might not
@@ -153,6 +154,18 @@ disease.
 Keep this in mind when reading about COVID-19 cures or treatments that will
 surely be reported in the coming weeks. 
 
+Specific things to look out for:
+
+ * You read about the news on a site you've never heard of before, or, it is
+   on a known site full of nonsense like the Daily Mail. Note that even 'big
+   name publications' fall for sensational news.
+ * There is no way to find the actual research (this could be names you can
+   Google, institutions or best, links to an actual preprint or paper)
+ * The news is only about a few cases in a single hospital
+
+From what I see, in the coming days/weeks we will be seeing some actually
+encouraging news, but we'll be seeing way more nonsense. So be careful!
+
 Antiviral medicines: will they help?
 ------------------------------------
 This is actually a more complicated question: who will they help and when? 
@@ -163,12 +176,13 @@ either slightly before (!!) infection, or shortly after.
 
 This may be very helpful to stem an outbreak (if the medicine is widely
 available, easy to administer and safe), but it is not necessarily much use
-for someone already in the intensive care unit.
+for someone already in the intensive care unit. 
 
 Trials of various anti-virals are proceeding, some encouraging hints have
 been picked up here and there, but there is no solid data yet. 
 
-The big ones to watch are Remdesivir and Chloroquine (an older Malaria
+The big ones to watch are Remdesivir and
+([Hydroxy](https://pubmed.ncbi.nlm.nih.gov/32150618-in-vitro-antiviral-activity-and-projection-of-optimized-dosing-design-of-hydroxychloroquine-for-the-treatment-of-severe-acute-respiratory-syndrome-coronavirus-2-sars-cov-2/?from_term=coronavirus+chloroquine&from_sort=date&from_pos=1))Chloroquine (an older Malaria
 medicine, but with side effects and contra-indications), with an honerable mention for
 [Camostat](https://www.pharmaceutical-technology.com/news/german-researchers-covid-19-drug/),
 which is already approved in Japan for other treatments.
@@ -177,6 +191,11 @@ Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
 which notes that the producer has ramped up production in advance of the
 outcome of trials (10th of March).
+
+This is PURE speculation, but we might get lucky that specifically
+[hydroxychloroquine](https://pubmed.ncbi.nlm.nih.gov/32150618-in-vitro-antiviral-activity-and-projection-of-optimized-dosing-design-of-hydroxychloroquine-for-the-treatment-of-severe-acute-respiratory-syndrome-coronavirus-2-sars-cov-2/?from_term=coronavirus+chloroquine&from_sort=date&from_pos=1) might be effective early in the disease and that we can
+send it out to everyone who even appears to be infected.  We don't yet have
+data on if this would work, but it is reasonably plausible.
 
 Supportive medicine
 -------------------
@@ -289,7 +308,7 @@ This content needs to be written. If you have good links or data, bert@hubertnet
 or [@PowerDNS_Bert](https://twitter.com/PowerDNS_Bert) are the places to
 send them.
 
- * Are 'superspreading events' important? Probably yes. May drive &gt;80% of
+ * Are 'superspreading events' important? Maybe. May drive &gt;80% of
    transmission. This is a good rationale for canceling large events.
    Technical term is 'overdispersion'. An [anecdote](https://twitter.com/BioTurboNick/status/1237467872588251136)
  * Children get infected readily with COVID-19 but they have very mild
@@ -299,13 +318,14 @@ send them.
    disease.
  * Why is COVID-19 so lethal in Italy? (appears to be lots of infections among very old
    people, and by now (10th of March) an overwhelmed healthcare system)
- * Why is COVID-19 almost non-lethal in Germany? (??)
+ * Pure speculation: Hypertension is a major major risk factor for dying from COVID-19. COVID-19 uses the ACE2 receptor for entry into cells. Common
+   high blood pressure medications increase expression of ACE2 mRNA. Here is some [speculation in a BMJ response
+   letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these medicines could possibly make things worse for users. Very speculative.
+ * Why is COVID-19 almost non-lethal in Germany? (??) 
  * How can China be reporting only double digit new infections? Has China actually restarted its society?
    [Perhaps not so much](https://twitter.com/NAChristakis/status/1237020524934463488).
+   As of March 12th this is becoming somewhat of a bigger mystery since
+   China is now reporting *single* digit case numbers from Wuhan.
  * The Mask Question: all of Asia believes in wearing masks, the rest of the
    world tells us to leave the masks to professionals. What is it?
- * Serology testing - this tells us if someone has mounted an immune system
-   response to the virus in the past. From this we'll learn how many
-   asymptomatic infections did create immunity, potentially stemming the
-   spread.
 
