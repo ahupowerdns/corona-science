@@ -88,6 +88,9 @@ transmission can be helpful if it takes the reproduction number just under
 Some discussion is in this [AP article on Snopes.com
 (!)](https://www.snopes.com/ap/2020/03/11/will-heat-stop-the-spread-of-new-virus-no-one-really-knows/).
 
+The inestimable Marc Lipsitch has also weighed in: [Seasonality of SARS-CoV-2: Will COVID-19 go away on its own in warmer
+weather?: tl;dr: probably not](https://ccdd.hsph.harvard.edu/will-covid-19-go-away-on-its-own-in-warmer-weather/).
+
 Testing, infectiveness
 ----------------------
 Earlier I wrote a bit on [how COVID-19 testing
@@ -126,8 +129,8 @@ even if someone recovered, I think you can still see IgG antibodies.
 
 This kind of testing may have a role, but it is no substitute for doing
 [PCR](https://berthub.eu/articles/posts/dna-grep-2019-ncov/), which takes
-hours, requires special equipment and is quite laborious, because it takes a
-long time for antibodies to appear.
+hours, requires special equipment and is quite laborious, but can detect the
+disease at an early stage.
 
 A brief intermezzo: reading about medical breakthroughs
 -------------------------------------------------------
