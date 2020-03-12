@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-12T10:40:25+01:00
+date: 2020-03-12T20:40:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 12th of March 10:49 UTC. View history of
+Science Journal". Updated frequently. Latest update: 12th of March 20:55 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -313,7 +313,7 @@ send them.
 
  * Are 'superspreading events' important? Maybe. May drive &gt;80% of
    transmission. This is a good rationale for canceling large events.
-   Technical term is 'overdispersion'. An [anecdote](https://twitter.com/BioTurboNick/status/1237467872588251136)
+   Technical term is 'overdispersion'. An [anecdote](https://twitter.com/BioTurboNick/status/1237467872588251136), [more detail](https://www.wbur.org/commonhealth/2020/03/12/coronavirus-outbreak-biogen-conference-superspreading)
  * Children get infected readily with COVID-19 but they have very mild
    disease. But do they spread it effectively? In other words, does closing
    schools help a lot (directly)? It is known that closing schools binds
