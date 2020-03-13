@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-12T20:40:25+01:00
+date: 2020-03-13T14:17:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 12th of March 20:55 UTC. View history of
+Science Journal". Updated frequently. Latest update: 13th of March 15:58 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -68,6 +68,11 @@ it, this graph is extremely useful:
 
 {{< figure src="/articles/the-graph.jpg" >}}
 
+This article
+[Coronavirus: Why You Must Act
+Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+is also very helpful.
+
 Will summer/warmer weather help?
 --------------------------------
 The official WHO word on this is "there is no evidence, don't count on it".
@@ -80,7 +85,9 @@ from warmer and more humid countries are fake (perhaps outright faked, or
 just not doing testing), but they will eventually tell us a story.
 
 Watching this one closely. There are papers that argue either side (it
-will help/it won't help). Note that "help" does not need to mean it kills
+[will help](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550308)/[it won't
+help](https://ccdd.hsph.harvard.edu/will-covid-19-go-away-on-its-own-in-warmer-weather/)). 
+Note that "help" does not need to mean it kills
 the virus - in our goal to stem the epidemic, even 10% reduction in
 transmission can be helpful if it takes the reproduction number just under
 1.0.
@@ -193,7 +200,12 @@ which is already approved in Japan for other treatments.
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
 which notes that the producer has ramped up production in advance of the
-outcome of trials (10th of March).
+outcome of trials (10th of March).  A further positive third-hand anecdote
+can be found in [this
+tweet](https://twitter.com/Chenbariatrics1/status/1238328364911345665),
+which notes it even works on gravely ill patients, and even without
+completing the 10 day course.  But it is a third-hand anecdote, and it notes
+doses are scarce.
 
 This is PURE speculation, but we might get lucky that specifically
 [hydroxychloroquine](https://pubmed.ncbi.nlm.nih.gov/32150618-in-vitro-antiviral-activity-and-projection-of-optimized-dosing-design-of-hydroxychloroquine-for-the-treatment-of-severe-acute-respiratory-syndrome-coronavirus-2-sars-cov-2/?from_term=coronavirus+chloroquine&from_sort=date&from_pos=1) might be effective early in the disease and that we can
@@ -220,6 +232,19 @@ rolling out broader use.
 
 In short, these medicines do not specifically kill or inhibit the virus, but
 they aim to help fight off its effects & keep the patient alive.
+
+Convalescent sera: using blood from recovered patients
+------------------------------------------------------
+Patients that have recovered will have generated COVID-19 specific
+antibodies. These can be used to help cure current patients, or to
+temporarily protect non-infected people, for example key medical staff.
+
+Convalescent sera have a storied history of working and sometimes not, a
+great discussion can be found in
+[The convalescent sera option for containing
+COVID-19](https://www.jci.org/articles/view/138003), which notes that it
+likely works best for very recently infected patients, or early in the
+course of the disease. 
 
 Vaccinations
 ------------
@@ -324,7 +349,7 @@ send them.
  * Pure speculation: Hypertension is a major major risk factor for dying from COVID-19. COVID-19 uses the ACE2 receptor for entry into cells. Common
    high blood pressure medications increase expression of ACE2 mRNA. Here is some [speculation in a BMJ response
    letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these medicines could possibly make things worse for users. Very speculative.
- * Why is COVID-19 almost non-lethal in Germany? (??) 
+ * Why is COVID-19 almost non-lethal in Germany??
  * How can China be reporting only double digit new infections? Has China actually restarted its society?
    [Perhaps not so much](https://twitter.com/NAChristakis/status/1237020524934463488).
    As of March 12th this is becoming somewhat of a bigger mystery since
