@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-13T14:17:25+01:00
+date: 2020-03-14T10:13:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 13th of March 15:58 UTC. View history of
+Science Journal". Updated frequently. Latest update: 14th of March 09:14 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -318,6 +318,8 @@ have not been (fully) absorbed into a specific section of this page:
  * 10th of March: [The demand for inpatient and ICU beds for COVID-19 in the US: lessons from Chinese cities](https://dash.harvard.edu/handle/1/42599304),
    containing the following absolutely KEY insight, backed up with data: "In **Wuhan**, strict disease control measures were implemented six weeks after sustained local transmission of SARS-CoV-2. Between January 10 and February 29, COVID-19 patients accounted for an average of 637 ICU patients and 3,454 serious inpatients on each day. During the epidemic peak, 19,425 patients (24.5 per 10,000 adults) were hospitalized, 9,689 (12.2 per 10,000 adults) were considered to be in serious condition, and 2,087 patients (2.6 per 10,000 adults) needed critical care per day. In **Guangzhou**, strict disease control measures were implemented within one week of case importation. Between January 24 and February 29, COVID-19 accounted for an average of
    **9 ICU patients and 20 inpatients on each day**"
+ * 14th of March: [A human monoclonal 1 antibody blocking SARS-CoV-2 infection](https://www.biorxiv.org/content/10.1101/2020.03.11.987958v1).
+   Details how work on SARSv1 helped find a '-mab' that blocks COVID-19.
 
 Twitter must-follows
 --------------------
