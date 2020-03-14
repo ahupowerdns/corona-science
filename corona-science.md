@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 14th of March 16:34 UTC. View history of
+Science Journal". Updated frequently. Latest update: 14th of March 17:52 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -286,6 +286,10 @@ To be honest I have no clue.  There is frantic ongoing activity by dozens of
 groups and companies.  We don't currently know if any of these vaccines will
 work (safely), nor how quickly they can be produced if they do.  Also, who
 would get them?  Countries turn very nasty over such things.
+
+Some good discussion on vaccines and other treatments can be found [in this
+Science
+article](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed).
 
 This situation will hopefully clear up over time. It may be that small
 quantities of vaccines become available early and could be used in targeted
