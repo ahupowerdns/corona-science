@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-14T10:13:25+01:00
+date: 2020-03-14T10:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 14th of March 14:32 UTC. View history of
+Science Journal". Updated frequently. Latest update: 14th of March 16:34 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -386,6 +386,8 @@ send them.
  * Pure speculation: Hypertension is a major major risk factor for dying from COVID-19. COVID-19 uses the ACE2 receptor for entry into cells. Common
    high blood pressure medications increase expression of ACE2 mRNA. Here is some [speculation in a BMJ response
    letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these medicines could possibly make things worse for users. Very speculative.
+   A great summary of the situation: [The Coronavirus Conundrum: ACE2 and Hypertension
+   Edition](http://www.nephjc.com/news/covidace2).
  * Why is COVID-19 almost non-lethal in Germany??
  * How can China be reporting only double digit new infections? Has China actually restarted its society?
    [Perhaps not so much](https://twitter.com/NAChristakis/status/1237020524934463488).
