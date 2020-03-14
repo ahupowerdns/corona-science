@@ -242,7 +242,7 @@ Netherlands (Erasmus and Utrecht) has developed a monoclonal antibody that binds
 to the COVID-19 virus, and in doing so disrupts its proliferation. This is based on previous research on SARSv1, so they
 had 'everything ready to go'. Details are in "[A human monoclonal 1 antibody blocking SARS-CoV-2
 infection](https://www.biorxiv.org/content/10.1101/2020.03.11.987958v1)".
-Note that this was an international collaboration led by Chunyan Wang, Wentao Li
+Note that this was an international paper by lead authors Chunyan Wang, Wentao Li
 and Dubravka Drabek. 
 
 Monoclonal antibodies ('mabs') are still relatively recent, but some of
