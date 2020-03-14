@@ -210,7 +210,8 @@ doses are scarce.
 This is PURE speculation, but we might get lucky that specifically
 [hydroxychloroquine](https://pubmed.ncbi.nlm.nih.gov/32150618-in-vitro-antiviral-activity-and-projection-of-optimized-dosing-design-of-hydroxychloroquine-for-the-treatment-of-severe-acute-respiratory-syndrome-coronavirus-2-sars-cov-2/?from_term=coronavirus+chloroquine&from_sort=date&from_pos=1) might be effective early in the disease and that we can
 send it out to everyone who even appears to be infected.  We don't yet have
-data on if this would work, but it is reasonably plausible.
+data on if this would work, but it is reasonably plausible. [Anecdotal
+tweet](https://twitter.com/CasasolaGarcia/status/1238539079412834305).
 
 Supportive medicine
 -------------------
@@ -233,6 +234,38 @@ paper](https://twitter.com/DrPujaMehta1/status/1238541499543011328).
 
 In short, these medicines do not specifically kill or inhibit the virus, but
 they aim to help fight off its effects & keep the patient alive.
+
+Monoclonal antibodies
+---------------------
+This is extremely fresh. A collaboration between universities in The
+Netherlands (Erasmus and Utrecht) has developed a monoclonal antibody that binds
+to the COVID-19 virus, and in doing so disrupts its proliferation. This is based on previous research on SARSv1, so they
+had 'everything ready to go'. Details are in "[A human monoclonal 1 antibody blocking SARS-CoV-2
+infection](https://www.biorxiv.org/content/10.1101/2020.03.11.987958v1)".
+Note that this was an international collaboration led by Chunyan Wang, Wentao Li
+and Dubravka Drabek. 
+
+Monoclonal antibodies ('mabs') are still relatively recent, but some of
+them have been spectacularly effective. And expensive.
+
+This specific antibody with the exciting name 47D11 appears to bind very
+well to both SARSv1 and COVID-19. At the very least this might enable fast
+and simple detection of an infection, since it binds directly to the virus,
+without having to do all kinds of RNA and DNA processing.
+
+With some further luck, 47D11 might also be of clinical use. I am very far
+from an expert, but the concentrations at which this new 'mab' is active
+appear to be feasible, requiring milligrams per patient if I read it right.
+
+This last bit is relevant - by now we all know lowly soap also eviscerates
+COVID-19, but the problem is that at concentration required, it would also
+kill us. Turns out our bodies use lipid bilayers as well.
+
+{{< figure src="/articles/cells_2x.png" caption="[Source](https://xkcd.com/1217/)">}}
+
+Will 47D11 be useful on the timescales we need? I don't know. Some
+background can be found in [this
+interview](https://www.erasmusmagazine.nl/en/2020/03/14/unique-discovery-in-erasmus-mc-antibody-against-corona/?noredirect=en_US). 
 
 Convalescent sera: using blood from recovered patients
 ------------------------------------------------------
@@ -269,9 +302,9 @@ hugely. Various academic papers have derived that after measures were in place,
 every patient infected only 0.3 new patients in Wuhan.  But with a drastic
 impact.
 
-It is very early but the numbers coming out of [South
-Korea](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) also
-appear to be improving.  South Korea notably did not completely shut down
+It is still early but the numbers coming out of [South
+Korea](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) are
+definitely improving.  South Korea notably did not completely shut down
 its country in the way Wuhan is still (9th of March) locked up.
 
 So it appears that if a country (government AND its people) really wants to
@@ -279,8 +312,9 @@ and has the means, it can slow down the spread hugely.
 
 An open question is if you can do this and remain a long-term viable
 economy. Also you have to want it, and many countries appear to wait with
-measures until they are unavoidable. The Netherlands (my own country) is
-being shamefully naive in this (until the 9th of March at least).
+measures until they are unavoidable. This will not be of any use. The right
+time for measures is when they appear to be overreactions - they will be
+visionary soon enough.
 
 Actual treatment guidelines
 ---------------------------
