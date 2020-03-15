@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-15T09:16:25+01:00
+date: 2020-03-15T11:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 15th of March 09:21 UTC. View history of
+Science Journal". Updated frequently. Latest update: 15th of March 11:47 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -282,8 +282,8 @@ COVID-19](https://www.jci.org/articles/view/138003), which notes that it
 likely works best for very recently infected patients, or early in the
 course of the disease. 
 
-Vaccinations
-------------
+Vaccines
+--------
 To be honest I have no clue.  There is frantic ongoing activity by dozens of
 groups and companies.  We don't currently know if any of these vaccines will
 work (safely), nor how quickly they can be produced if they do.  Also, who
@@ -299,6 +299,56 @@ fashion.
 
 It may also be that nothing works. But, a lot of attempts are being made and
 there is solid science behind the efforts.
+
+Meanwhile, it appears one German company CureVac, which make mRNA-based
+vaccines, is [being enticed to work for the US
+exclusively](https://twitter.com/alfonslopeztena/status/1239142131467464704).
+Perhaps they [know something we
+don't](https://www.dw.com/en/germany-and-us-wrestle-over-coronavirus-vaccine-report/a-52777990).
+
+A brief word on mRNA-based vaccines. For an DNA/RNA primer, try my earlier
+post '[What is life](https://berthub.eu/articles/posts/what-is-life/)' or
+the followup
+'[Is biology too complex to ever
+understand?](https://berthub.eu/articles/posts/biologists-physics-envy/)'. 
+
+So in short, our cells convert ('transcribe') DNA from our genome into
+"messenger RNA".  Messenger RNA (mRNA) is subsequently converted
+('translated') into proteins.  When a virus infects a cell, it hijacks this
+mechanism by also creating mRNA, and turning the cell into a factory for new
+viruses.
+
+What an mRNA-based vaccine attempts to do is to get carefully crafted mRNA
+inside our cells so those cells start producing proteins we have chosen.  We
+pick proteins that also occur in (or on) the virus we want to generate
+immunity for.
+
+If done well, those cells will create those viral proteins, and our immune
+system will get alerted to these alien proteins and develop antibodies and
+hopefully long-lived immunity.
+
+The nice thing about this trick is that the mRNA in an mRNA-vaccine does not
+self replicate.  So if you inject x amount of vaccine, at most y
+amount of protein will come out.  And you can calibrate y that it won't
+actually kill or harm the patient. 
+
+In a sense, an mRNA-vaccine is sort of a 'build it yourself' vaccine that
+uses our own cells to create proteins that look like viral proteins (or
+actually are), and then our immune system does the rest. IKEA-style vaccines
+if you will.
+
+mRNA-vaccine technology is pretty well advanced and has conquered many
+hurdles already, but has as yet not delivered any vaccine against a Corona
+or Influenza virus in humans.  It has done so in mice however.  A very good
+writeup is in [this Nature
+article](https://www.nature.com/articles/nrd.2017.243).
+
+Of note, some pretty clever things are already in the works to stimulate the
+immune system to act on this novel protein. If I had to guess, it looks like
+the field is maturing rapidly and it all does seem plausible. 
+
+One final thing mRNA vaccines have going for them is that they can be
+produced quickly. So let's see if this delivers.
 
 Can you stop the epidemic?
 --------------------------
@@ -343,7 +393,11 @@ normal immune response, which should provide protection against reinfection,
 at least in the short term. 
 
 There are some (two, that I know) reports of reinfection, but they are very
-sparse so far, and one is thought to be a testing mishap. 
+sparse so far, and one is thought to be a testing mishap. An [experiment in
+rhesus
+macaques](https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1) showed they could not be reinfected (after a month).
+This is great news if you are a rhesus macaque, but it likely extends to
+humans as well.
 
 It is however unknown how long built up immunity will last, and also how
 strong the immune response remains.  A weaker response might turn an
