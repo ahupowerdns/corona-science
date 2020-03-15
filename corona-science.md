@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 15th of March 11:47 UTC. View history of
+Science Journal". Updated frequently. Latest update: 15th of March 19:24 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -300,7 +300,7 @@ fashion.
 It may also be that nothing works. But, a lot of attempts are being made and
 there is solid science behind the efforts.
 
-Meanwhile, it appears one German company CureVac, which make mRNA-based
+Meanwhile, it appears one German company CureVac, which makes mRNA-based
 vaccines, is [being enticed to work for the US
 exclusively](https://twitter.com/alfonslopeztena/status/1239142131467464704).
 Perhaps they [know something we
@@ -337,15 +337,21 @@ uses our own cells to create proteins that look like viral proteins (or
 actually are), and then our immune system does the rest. IKEA-style vaccines
 if you will.
 
+There are also self-amplifying mRNA vaccines that do replicate and multiply
+in our cells, which leads to a more potent immune system response, but is in
+a sense playing with fire. 
+
 mRNA-vaccine technology is pretty well advanced and has conquered many
 hurdles already, but has as yet not delivered any vaccine against a Corona
 or Influenza virus in humans.  It has done so in mice however.  A very good
 writeup is in [this Nature
-article](https://www.nature.com/articles/nrd.2017.243).
+article](https://www.nature.com/articles/nrd.2017.243), which is the source
+of most of this section.
 
 Of note, some pretty clever things are already in the works to stimulate the
-immune system to act on this novel protein. If I had to guess, it looks like
-the field is maturing rapidly and it all does seem plausible. 
+immune system to act on the newly generated viral proteins.  If I had to
+guess, it looks like the field is maturing rapidly and it all does seem
+plausible. But there's no proof in humans.
 
 One final thing mRNA vaccines have going for them is that they can be
 produced quickly. So let's see if this delivers.
@@ -419,9 +425,10 @@ From personal sources, I am convinced China is indeed starting up its
 economy again. Even some Hubei (the Wuhan province) based companies where I
 have second hand contacts are shipping things again to people I know.
 
-It is estimated that around 1% (or 4%) of Wuhan got infected at peak
-[citation missing, I'll drag it up again].  This is very very far away from
-any kind of "herd immunity".
+It is estimated that around [1% of Wuhan got infected at
+peak](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-repatriation-09-03-2020.pdf). 
+This is very very far away from any kind of "herd immunity". Other sources
+say 4%, but this is still not a lot.
 
 So how is it possible things are starting up there again without the virus
 roaring back?  And similarly, how come other large cities there did not get
@@ -455,6 +462,11 @@ post](https://blog.salathe.com/covid-19-some-thoughts-on-whats-next-mar-15)
 where he estimates that once the worst is past, stringent and high-capacity
 testing followed by isolation will keep things under control.  Perhaps that
 is what we are seeing. 
+
+Meanwhile, Marc Lipsitch who is an expert (linked below from the Twitter
+section), opines [that Wuhan didn't solve
+anything](https://twitter.com/mlipsitch/status/1239221053848727553) and that
+if they relax their measures, the virus will just come back.
 
 Wild speculation ends here!
 
