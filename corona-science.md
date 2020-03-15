@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-14T10:16:25+01:00
+date: 2020-03-15T09:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 14th of March 17:52 UTC. View history of
+Science Journal". Updated frequently. Latest update: 15th of March 09:21 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -125,7 +125,8 @@ have arrived](https://twitter.com/PowerDNS_Bert/status/1237788602186293249)). Th
 (IgM and IgG respectively). Excitingly, it appears to be possible to
 determine presence of IgM and IgG for COVID-19 in 10 minutes based on a drop
 of blood. Less excitingly, it also appears IgM is only present 1 or 2 weeks
-after infection.
+after infection (or perhaps 3-5 days according to [another commercial
+source](https://www.biopanda.co.uk/php/products/rapid/infectious_diseases/covid19.php).
 
 One such test is described
 [on this page](https://www.biomedomics.com/products/infectious-disease/covid-19-rt/),
@@ -138,6 +139,7 @@ This kind of testing may have a role, but it is no substitute for doing
 [PCR](https://berthub.eu/articles/posts/dna-grep-2019-ncov/), which takes
 hours, requires special equipment and is quite laborious, but can detect the
 disease at an early stage.
+
 
 A brief intermezzo: reading about medical breakthroughs
 -------------------------------------------------------
@@ -340,7 +342,67 @@ Everything points towards COVID-19 being a normal virus that generates a
 normal immune response, which should provide protection against reinfection,
 at least in the short term. 
 
-(this section will need to get expanded, see serology below).
+There are some (two, that I know) reports of reinfection, but they are very
+sparse so far, and one is thought to be a testing mishap. 
+
+It is however unknown how long built up immunity will last, and also how
+strong the immune response remains.  A weaker response might turn an
+infection into a far less dangerous but still inconvenient affair.  We know
+surprisingly little about this.  There is a paper on [coronaviruses IN
+MICE](https://www.ncbi.nlm.nih.gov/pubmed/2554852), which indicates a robust
+response at least for one year.
+
+Not knowing this for sure makes the UK's policy developing herd
+immunity so we are safe for winter.. a very very risky bet.
+
+Can we restart society after lockdown? (beware, speculation)
+------------------------------------------------------------
+The rest of this page is purely based on well reported science and serious
+sources. In this section I speculate a bit. Please be aware of the
+difference, this is me thinking out loud, and I am no expert.
+
+From personal sources, I am convinced China is indeed starting up its
+economy again. Even some Hubei (the Wuhan province) based companies where I
+have second hand contacts are shipping things again to people I know.
+
+It is estimated that around 1% (or 4%) of Wuhan got infected at peak
+[citation missing, I'll drag it up again].  This is very very far away from
+any kind of "herd immunity".
+
+So how is it possible things are starting up there again without the virus
+roaring back?  And similarly, how come other large cities there did not get
+huge outbreaks even with far more relaxed measures?
+
+I think we are missing some factor.  If I do some non-expert speculation
+(sorry), many cases of COVID-19 may have been PCR-negative (so never
+detected), but perhaps did lead to some kind of immunity.  Serological
+testing (the IgG, IgM story from above) will likely tell, and I anxiously
+await the results.
+
+It may also be that COVID-19 depends to a far larger extent on 'super
+spreading events' and simply not doing very large gatherings is all you
+need to keep things under control. Who knows.
+
+Could it be that masks do help if worn by all people that might be infected?
+
+Perhaps it is a combination of multiple factors that, after the initial
+outbreak is under control, drives down the reproduction number under 1
+without halting your whole society. A combination then of some immunity,
+less super spreading, masks, more favourable weather, perhaps. 
+
+Some thoughts can also be found [in this
+interview](https://www.calcalistech.com/ctech/articles/0,7340,L-3800632,00.html)
+with Nobel-prize winning biophysicist Michael Levitt who called the peak of
+infections in Wuhan correctly.
+
+[Marcel Salathé](https://www.epfl.ch/labs/salathelab/), a professor of
+digital epidemiology, describes a post-infection peak scenario in [this
+post](https://blog.salathe.com/covid-19-some-thoughts-on-whats-next-mar-15)
+where he estimates that once the worst is past, stringent and high-capacity
+testing followed by isolation will keep things under control.  Perhaps that
+is what we are seeing. 
+
+Wild speculation ends here!
 
 Recent interesting papers
 -------------------------
