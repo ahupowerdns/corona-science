@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-15T11:16:25+01:00
+date: 2020-03-16T11:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 15th of March 19:24 UTC. View history of
+Science Journal". Updated frequently. Latest update: 16th of March 16:30 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -131,6 +131,11 @@ source](https://www.biopanda.co.uk/php/products/rapid/infectious_diseases/covid1
 One such test is described
 [on this page](https://www.biomedomics.com/products/infectious-disease/covid-19-rt/),
 which includes manuals and protocols.
+
+> Note: I wrote a separate warning about buying these tests online.
+> Please feel free to [forward this
+> warning](https://berthub.eu/articles/posts/corona-selftest-warning/) to people considering buying a
+> rapid at home "self-test"!
 
 It appears that such a test will mainly allow you to 'look into the past' -
 even if someone recovered, I think you can still see IgG antibodies.  
@@ -467,6 +472,13 @@ Meanwhile, Marc Lipsitch who is an expert (linked below from the Twitter
 section), opines [that Wuhan didn't solve
 anything](https://twitter.com/mlipsitch/status/1239221053848727553) and that
 if they relax their measures, the virus will just come back.
+
+In "[Strongly heterogeneous transmission of COVID-19 in mainland China: local and regional
+variation](https://www.medrxiv.org/content/10.1101/2020.03.10.20033852v1)"
+we can read an analysis that indicates that outside of Wuhan, after people
+were warned, the reproduction number of COVID-19 was below 2, even before
+strong measures were implemented. This may also explain some of the relative
+ease of keeping things under control in China, but unsure. 
 
 Wild speculation ends here!
 
