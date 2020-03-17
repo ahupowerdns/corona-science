@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-17T12:16:25+01:00
+date: 2020-03-17T17:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 17th of March 12:26 UTC. View history of
+Science Journal". Updated frequently. Latest update: 17th of March 17:26 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -204,6 +204,7 @@ medicine, but with side effects and contra-indications), with an honerable menti
 [Camostat](https://www.pharmaceutical-technology.com/news/german-researchers-covid-19-drug/),
 which is already approved in Japan for other treatments.
 
+
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
 which notes that the producer has ramped up production in advance of the
@@ -223,6 +224,13 @@ tweet](https://twitter.com/CasasolaGarcia/status/1238539079412834305).
 17th of March Update: there is now [a clinical trial of this
 idea](https://clinicaltrials.gov/ct2/show/NCT04308668?cond=%22wuhan+coronavirus%22&sfpd_s=03%2F03%2F2020&sfpd_d=14&sel_rss=new14)
 so at least I am not alone in speculating.
+
+17th of March second update, [a limited experiment on 24 patients in a French
+hospital](https://www.20minutes.fr/sante/2742011-20200317-coronavirus-hydroxychloroquine-efficace-selon-professeur-raoult-ihu-marseille-apres-premier-test-restreint)
+combined hydroxychloroquine (trade name Plaquenil) and an antibiotic known
+to have anti-viral effects (Azithromycin), with positive results.  It is
+early days, but the result is not implausible.
+
 
 Supportive medicine
 -------------------
@@ -452,6 +460,9 @@ await the results.
 It may also be that COVID-19 depends to a far larger extent on 'super
 spreading events' and simply not doing very large gatherings is all you
 need to keep things under control. Who knows.
+
+Or perhaps extreme contact tracing for each remaining event is enough to
+keep things under wraps once the explosive phase is over.
 
 Could it be that masks do help if worn by all people that might be infected?
 
