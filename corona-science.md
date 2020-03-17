@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-16T11:16:25+01:00
+date: 2020-03-17T12:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 16th of March 16:30 UTC. View history of
+Science Journal". Updated frequently. Latest update: 17th of March 12:26 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -219,6 +219,10 @@ This is PURE speculation, but we might get lucky that specifically
 send it out to everyone who even appears to be infected.  We don't yet have
 data on if this would work, but it is reasonably plausible. [Anecdotal
 tweet](https://twitter.com/CasasolaGarcia/status/1238539079412834305).
+
+17th of March Update: there is now [a clinical trial of this
+idea](https://clinicaltrials.gov/ct2/show/NCT04308668?cond=%22wuhan+coronavirus%22&sfpd_s=03%2F03%2F2020&sfpd_d=14&sel_rss=new14)
+so at least I am not alone in speculating.
 
 Supportive medicine
 -------------------
@@ -510,6 +514,9 @@ of highly responsible, very high signal-to-noise ratio tweeters:
  * [@mlipsitch](https://twitter.com/mlipsitch), Marc Lipsitch, Infectious disease epidemiologist and microbiologist, Harvard.
  * [@HelenBranswell](https://twitter.com/HelenBranswell), Senior writer, infectious diseases at
  the excellent [Statnews.com](https://statnews.com).
+
+Another outstanding follow is [@COVID_Evidence](https://twitter.com/COVID_Evidence)
+which live-tweets the latest preprints and clinical trials.
 
 Todo: other open questions
 --------------------------
