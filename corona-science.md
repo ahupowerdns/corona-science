@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 17th of March 20:52 UTC. View history of
+Science Journal". Updated frequently. Latest update: 17th of March 22:27 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -254,6 +254,10 @@ a lot about it. As of the 11th of March, there are a mounting number of
 rolling out broader use. There is now also a [Lancet
 paper](https://twitter.com/DrPujaMehta1/status/1238541499543011328).
 
+17th of March update, Italy is launching a [330-patient Tocilizumab
+trial](https://www.labussolanews.it/2020/03/17/tocilizumab-si-dellaifa-a-studio-sperimentale/) after some
+further positive experiences in several hospitals.
+
 In short, these medicines do not specifically kill or inhibit the virus, but
 they aim to help fight off its effects & keep the patient alive.
 
@@ -430,10 +434,9 @@ strong the immune response remains.  A weaker response might turn an
 infection into a far less dangerous but still inconvenient affair.  We know
 surprisingly little about this.  There is a paper on [coronaviruses IN
 MICE](https://www.ncbi.nlm.nih.gov/pubmed/2554852), which indicates a robust
-response at least for one year.
-
-Not knowing this for sure makes the UK's policy developing herd
-immunity so we are safe for winter.. a very very risky bet.
+response at least for one year. Update 17th of March: here is an [extremely
+thorough paper](https://www.nature.com/articles/s41591-020-0819-2) on the
+very normal immune system response to even mild COVID-19 disease. 
 
 Can we restart society after lockdown? (beware, speculation)
 ------------------------------------------------------------
