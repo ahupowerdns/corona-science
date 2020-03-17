@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 17th of March 17:26 UTC. View history of
+Science Journal". Updated frequently. Latest update: 17th of March 20:52 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -204,7 +204,6 @@ medicine, but with side effects and contra-indications), with an honerable menti
 [Camostat](https://www.pharmaceutical-technology.com/news/german-researchers-covid-19-drug/),
 which is already approved in Japan for other treatments.
 
-
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
 which notes that the producer has ramped up production in advance of the
@@ -231,6 +230,10 @@ combined hydroxychloroquine (trade name Plaquenil) and an antibiotic known
 to have anti-viral effects (Azithromycin), with positive results.  It is
 early days, but the result is not implausible.
 
+17th of March third update, a trial of favipiravir has finished in China,
+with some encouraging results: [The results have shown patients treated with favipiravir took four days before being tested negative, whereas the control group took 11
+days.](http://www.chinadaily.com.cn/a/202003/17/WS5e708666a31012821727fcbd.html).
+This is a press report and not a preprint.
 
 Supportive medicine
 -------------------
