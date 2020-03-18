@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 18th of March 17:15 UTC. View history of
+Science Journal". Updated frequently. Latest update: 18th of March 21:15 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -251,6 +251,14 @@ This is a press report and not a preprint.
 18th of March, here is [some more reporting on
 hydroxycloroquine(/Azithromycin)
 trials](https://www.connexionfrance.com/French-news/French-researcher-in-Marseille-posts-successful-Covid-19-coronavirus-drug-trial-results).
+
+18th of March, second update,
+[Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial](https://drive.google.com/file/d/186Bel9RqfsmEx55FDum4xY_IlWSHnGbj/view)
+is a paper on the French trial. It is slightly too bombastic for my taste
+and ignores that 3 patients dropped out of the trial because they were too
+ill, but even if you take out these 3 patients, the results are suggestive
+of an effect. 
+
 
 Supportive medicine
 -------------------
