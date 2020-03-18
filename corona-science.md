@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 18th of March 16:01 UTC. View history of
+Science Journal". Updated frequently. Latest update: 18th of March 17:15 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -148,6 +148,11 @@ This kind of testing may have a role, but it is no substitute for doing
 hours, requires special equipment and is quite laborious, but can detect the
 disease at an early stage.
 
+18th of March update: The paper "[A serological assay to detect SARS-CoV-2
+seroconversion in
+humans](https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1)" notes
+that at least one test is specific and sensitive and picks up IgM as early
+as 3 days post symptom onset. This is great news.
 
 A brief intermezzo: reading about medical breakthroughs
 -------------------------------------------------------
