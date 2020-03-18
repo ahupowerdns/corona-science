@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 18th of March 10:48 UTC. View history of
+Science Journal". Updated frequently. Latest update: 18th of March 13:48 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -422,6 +422,7 @@ Some governments are publishing their guidelines, sometimes even in English:
 
  * [Chinese treatment guidelines](https://www.chinalawtranslate.com/en/tag/coronavirus/) as translated by [China Law Translate](https://www.chinalawtranslate.com) (thanks!)
  * [Dutch treatment guidelines](https://lci.rivm.nl/covid-19/bijlage/medicamenteuze-behandelopties) - in Dutch, but quite thorough. Updated every few days.
+ * [Belgian guidelines, in English!](https://epidemio.wiv-isp.be/ID/Documents/Covid19/COVID-19_InterimGuidelines_Treatment_ENG.pdf)
 
 The Chinese guidelines briefly discuss Tocilizumab.
 
