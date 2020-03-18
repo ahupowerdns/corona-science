@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-17T17:16:25+01:00
+date: 2020-03-18T10:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 17th of March 22:27 UTC. View history of
+Science Journal". Updated frequently. Latest update: 18th of March 10:48 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -34,7 +34,9 @@ it, or looks very plausible.
 Here goes.
 
 Feedback, content & interesting links are VERY welcome on bert@hubertnet.nl
-or [@PowerDNS_Bert](https://twitter.com/PowerDNS_Bert).
+or [@PowerDNS_Bert](https://twitter.com/PowerDNS_Bert). Many readers are
+sending me a steady stream of updates, please keep it up! Special mention
+for Oliver Germer who appears to be combing the internet for the best data.
 
 Facts
 -----
@@ -204,6 +206,11 @@ medicine, but with side effects and contra-indications), with an honerable menti
 [Camostat](https://www.pharmaceutical-technology.com/news/german-researchers-covid-19-drug/),
 which is already approved in Japan for other treatments.
 
+See below for the latest updates on (hydroxy)chloroquine. A lot of
+information and some optimism can be found in this [Google
+Doc](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
+on various national treatment strategies.
+
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
 which notes that the producer has ramped up production in advance of the
@@ -234,6 +241,10 @@ early days, but the result is not implausible.
 with some encouraging results: [The results have shown patients treated with favipiravir took four days before being tested negative, whereas the control group took 11
 days.](http://www.chinadaily.com.cn/a/202003/17/WS5e708666a31012821727fcbd.html).
 This is a press report and not a preprint.
+
+18th of March, here is [some more reporting on
+hydroxycloroquine(/Azithromycin)
+trials](https://www.connexionfrance.com/French-news/French-researcher-in-Marseille-posts-successful-Covid-19-coronavirus-drug-trial-results).
 
 Supportive medicine
 -------------------
@@ -414,6 +425,11 @@ Some governments are publishing their guidelines, sometimes even in English:
 
 The Chinese guidelines briefly discuss Tocilizumab.
 
+This [Google
+Document](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
+containst a list of treatment guidelines, also from Korea. I touches a lot
+on (hydroxy)chloroquine as well. 
+
 (more links welcome!)
 
 Is this a normal virus? Can you get reinfected?
@@ -437,6 +453,33 @@ MICE](https://www.ncbi.nlm.nih.gov/pubmed/2554852), which indicates a robust
 response at least for one year. Update 17th of March: here is an [extremely
 thorough paper](https://www.nature.com/articles/s41591-020-0819-2) on the
 very normal immune system response to even mild COVID-19 disease. 
+
+Although (rapid) reinfection currently does not appear to be a big thing it
+is of course a subject of intense interest, so this paragraph will be
+updates with everything we learn.
+
+What about Ibuprofen/NSAIDs?
+----------------------------
+Here is what I understand is the full list of things we know about the
+safety of Ibuprofen during pneumonia:
+
+ * ...
+
+The [warning to not use Ibuprofen from the French minister of
+health](https://twitter.com/olivierveran/status/1238776545398923264) (who is
+also a doctor) came without evidence or data but it also did not come out of
+nowhere.
+
+People frequently refer to [a paper in The
+Lancet](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30116-8/fulltext), but it only mentions Ibuprofen in
+passing, without adding data.
+
+In the absence of real data, it appears that if you have the choice between
+Ibuprofen/NSAIDs or paracetamol (tylenol, acetominophen), use the latter, a
+recommendation [echoed by the
+WHO](https://www.sciencealert.com/who-recommends-to-avoid-taking-ibuprofen-for-covid-19-symptoms).
+
+Will update this section as more data becomes available. 
 
 Can we restart society after lockdown? (beware, speculation)
 ------------------------------------------------------------
