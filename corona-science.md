@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 18th of March 13:48 UTC. View history of
+Science Journal". Updated frequently. Latest update: 18th of March 16:01 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -554,6 +554,31 @@ strong measures were implemented. This may also explain some of the relative
 ease of keeping things under control in China, but unsure. 
 
 Wild speculation ends here!
+
+Graphs and numbers
+------------------
+There are so many graphs and numbers out there. Please be aware that we have
+no 'Corona-meter'. All the numbers and especially the graphs we see are the
+product of many policity decisions of whom and how many to test. Some tests
+may also be more sensitive than others. Almost no country reports reliable
+numbers on who is cured. We may ache for the certainty of hard figures, but
+the numbers just don't work that way. 
+
+One site that does appear to be making an effort is
+"[Temporal variation in transmission during the COVID-19
+outbreak](https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html)"
+by the UK's [Centre for Mathematical Modelling of Infections
+Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases). 
+
+By comparing numbers not among countries but comparing them from day to day,
+they can derive growth factors. They also attempt to account for the delay
+in reporting new cases.
+
+{{< figure src="/articles/cmmid.png" caption="COVID-19 in The Netherlands">}}
+
+These graphs take some processing and are not up to the minute, but they do
+show the numbers we need to know. Other sites may be more exciting, but I prefer
+[this one](https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html)!
 
 Recent interesting papers
 -------------------------
