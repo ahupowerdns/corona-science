@@ -20,7 +20,8 @@ There is [sufficient other
 content](https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/) out there that aims to tell you if things
 will be bad or not. A lot of data can be found in
 [Coronavirus Primer for Reasonably Rational
-People](https://docs.google.com/document/d/1FfVZtg0ETPLaM8JbeFgQMz2zxmcPTpoBEoMgAzgQQvs/edit#). 
+People](https://docs.google.com/document/d/1FfVZtg0ETPLaM8JbeFgQMz2zxmcPTpoBEoMgAzgQQvs/edit#).
+
 I have no specific epidemiological expertise, so I won't add to these
 existing efforts.
 
@@ -478,7 +479,14 @@ passing, without adding data.
 In the absence of real data, it appears that if you have the choice between
 Ibuprofen/NSAIDs or paracetamol (tylenol, acetominophen), use the latter, a
 recommendation [echoed by the
-WHO](https://www.sciencealert.com/who-recommends-to-avoid-taking-ibuprofen-for-covid-19-symptoms).
+WHO](https://www.sciencealert.com/who-recommends-to-avoid-taking-ibuprofen-for-covid-19-symptoms),
+and also by this [BMJ article](https://www.bmj.com/content/368/bmj.m1086).
+
+There are some unfortunate health authorities, including Dutch ones,
+rubbishing the Ibuprofen warnings - I can't see how they do this since there
+is an utter lack of data showing NSAIDs are safe or beneficial in these
+situations. Best response right now is "we need more data, but it could well
+be true". 
 
 Will update this section as more data becomes available. 
 
@@ -578,6 +586,9 @@ of highly responsible, very high signal-to-noise ratio tweeters:
 
 Another outstanding follow is [@COVID_Evidence](https://twitter.com/COVID_Evidence)
 which live-tweets the latest preprints and clinical trials.
+
+[Russ Garrett](https://twitter.com/russss) also [maintains an exhaustive set of
+bookmarks](https://pinboard.in/u:russ/t:covid19/).
 
 Todo: other open questions
 --------------------------
