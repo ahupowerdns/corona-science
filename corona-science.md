@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 19th of March 10:59 UTC. View history of
+Science Journal". Updated frequently. Latest update: 19th of March 21:05 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -171,7 +171,7 @@ that are interesting:
    English](https://nltimes.nl/2020/03/19/blood-banks-test-covid-19-herd-immunity-netherlands-report),
    will add more detail as I find it. 
  * Ongoing for a few days already, [a trial to test if chloroquine provided
-   quickly after potential exposure](https://nltimes.nl/2020/03/19/blood-banks-test-covid-19-herd-immunity-netherlands-report) might be protective.
+   quickly after potential exposure](https://clinicaltrials.gov/ct2/show/NCT04308668?cond=%22wuhan+coronavirus%22&sfpd_s=03%2F03%2F2020&sfpd_d=14&sel_rss=new14) might be protective.
    This one is very exciting since it offers a potential strategy that could
    prevent significant harm.
 
@@ -294,6 +294,11 @@ information and some optimism can be found in this [Google
 Doc](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
 on various national treatment strategies.
 
+It appears [hydroxychloroquine is 5 times more effective in
+vitro](https://www.ncbi.nlm.nih.gov/pubmed/32150618) but many national
+treatment plans (like the Dutch one) default to chloroquine since it is better known.
+I hope hydroxychloroquine will also be tried!
+
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
 which notes that the producer has ramped up production in advance of the
@@ -412,7 +417,7 @@ course of the disease.
 
 Vaccines
 --------
-To be honest I have no clue.  There is frantic ongoing activity by dozens of
+To be honest I have little clue.  There is frantic ongoing activity by dozens of
 groups and companies.  We don't currently know if any of these vaccines will
 work (safely), nor how quickly they can be produced if they do.  Also, who
 would get them?  Countries turn very nasty over such things.
@@ -426,7 +431,11 @@ quantities of vaccines become available early and could be used in targeted
 fashion. 
 
 It may also be that nothing works. But, a lot of attempts are being made and
-there is solid science behind the efforts.
+there is solid science behind the efforts. According to [this informed
+Twitter thread by someone that wrote a book about
+it](https://twitter.com/PeterKolchinsky/status/1240498037958545410), we have
+managed to create veterinary vaccines for several corona viruses, there just
+never has been a need to do so for humans. But it shows it can be done.
 
 Meanwhile, it appears one German company CureVac, which makes mRNA-based
 vaccines, is [being enticed to work for the US
@@ -519,6 +528,7 @@ Some governments are publishing their guidelines, sometimes even in English:
  * [Chinese treatment guidelines](https://www.chinalawtranslate.com/en/tag/coronavirus/) as translated by [China Law Translate](https://www.chinalawtranslate.com) (thanks!)
  * [Dutch treatment guidelines](https://lci.rivm.nl/covid-19/bijlage/medicamenteuze-behandelopties) - in Dutch, but quite thorough. Updated every few days.
  * [Belgian guidelines, in English!](https://epidemio.wiv-isp.be/ID/Documents/Covid19/COVID-19_InterimGuidelines_Treatment_ENG.pdf)
+ * [Italian guidelines, in Italian](http://www.simit.org/medias/1569-covid19-vademecum-13-03-202.pdf).
 
 The Chinese guidelines briefly discuss Tocilizumab.
 
