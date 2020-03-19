@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 19th of March 21:05 UTC. View history of
+Science Journal". Updated frequently. Latest update: 19th of March 21:10 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -560,6 +560,12 @@ MICE](https://www.ncbi.nlm.nih.gov/pubmed/2554852), which indicates a robust
 response at least for one year. Update 17th of March: here is an [extremely
 thorough paper](https://www.nature.com/articles/s41591-020-0819-2) on the
 very normal immune system response to even mild COVID-19 disease. 
+
+Update 19th of March, here is a 1990 paper
+[The time course of the immune response to experimental coronavirus infection of man](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2271881/pdf/epidinfect00023-0213.pdf)
+that shows that after a year, antibodies for a coronavirus can still be detected, but at low
+levels, but that on re-exposure, patients technically get infected (briefly), but do
+not actually get ill.
 
 Although (rapid) reinfection currently does not appear to be a big thing it
 is of course a subject of intense interest, so this paragraph will be
