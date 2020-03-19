@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 19th of March 08:33 UTC. View history of
+Science Journal". Updated frequently. Latest update: 19th of March 10:59 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -118,6 +118,65 @@ Some discussion is in this [AP article on Snopes.com
 
 The inestimable Marc Lipsitch has also weighed in: [Seasonality of SARS-CoV-2: Will COVID-19 go away on its own in warmer
 weather?: tl;dr: probably not](https://ccdd.hsph.harvard.edu/will-covid-19-go-away-on-its-own-in-warmer-weather/).
+
+Interesting trials
+------------------
+Many trials are currently happening or being launched. Running a good trial
+is very difficult and it is easy to expend great effort and come up with
+unreliable results. As an example, since the vast majority of people recover
+from COVID-19, you could do provide a group of patients with (say) Dutch
+cheese, wait two weeks, and conclude that 85% recovered. Yay for Dutch
+cheese!
+
+Even with a control group (that gets fake Cheese) it there are lots of ways
+to fool yourself into thinking you got a result, especially when we are
+looking for non-dramatic effects. For example, a treatment that shortens ICU
+stay by 20% is exceptionally useful, but 20% needs to be picked up out of
+the noise.
+
+Another terrible way to ruin your study is to run it, look at the
+disappointing results, and then recast your hypothesis.  For example,
+medicine X might be so-so effective, but a subgroup that got X and Y all
+survived.  Statistics teaches us that it is folly to now announce X+Y are a
+cure, until you rerun a trial where you pre-determine that X+Y is what you
+are testing, or perform extensive
+[Bonferonni-correction](https://en.wikipedia.org/wiki/Bonferroni_correction)
+on your statistics.
+
+Smaller trials are also not very sensitive and could more easily be wrong,
+or not be "powered" enough to see important effects like when a drug only
+works when it is provided early enough.
+
+Having said all this, here are some properly designed trials (or campaigns)
+that are interesting:
+
+ * The big one: the [WHO SOLIDARITY
+   trial](https://news.un.org/en/story/2020/03/1059722) launched in response
+   to several smaller and inconclusive smaller initiatives. As noted in
+   [this excellent STAT article](https://www.statnews.com/2020/03/18/who-to-launch-multinational-trial-to-jumpstart-search-for-coronavirus-drugs/)
+   this trial will test remdesivir; a combination of two HIV drugs, lopinavir and ritonavir; lopinavir and ritonavir plus interferon beta; and the antimalarial drug
+   chloroquine. The trial design is interesting and 10 countries have
+   already signed up.
+ * BCG vaccination against TBC. This sounds odd but it has been long noted
+   that the BCG vaccination temporarily boosts the immune system in general. [Two Dutch
+   universities](https://www.brusselstimes.com/all-news/belgium-all-news/101057/tb-vaccine-considered-in-fight-against-coronavirus/)
+   had long been investigating this phenomenon, and has now obtained
+   emergency permission to test the hypothesis on 1000 hospital workers, 500
+   of whom will be the control group. Goal is to see if this leads to fewer
+   infections.
+ * The Dutch blood banks are now screening all donations for a week for presence
+   of COVID-19 antibodies. They go through 10k donors/week, out of 331k
+   registered blood donors. This will give a sensitive indication on the
+   amount of established immunity in the population. Some brief news [in
+   English](https://nltimes.nl/2020/03/19/blood-banks-test-covid-19-herd-immunity-netherlands-report),
+   will add more detail as I find it. 
+ * Ongoing for a few days already, [a trial to test if chloroquine provided
+   quickly after potential exposure](https://nltimes.nl/2020/03/19/blood-banks-test-covid-19-herd-immunity-netherlands-report) might be protective.
+   This one is very exciting since it offers a potential strategy that could
+   prevent significant harm.
+
+Please [contact me](https://berthub.eu) is you know of more interesting
+trials - I mostly pick up local ones on my own.
 
 Testing, infectiveness
 ----------------------
