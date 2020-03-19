@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-18T10:16:25+01:00
+date: 2020-03-19T07:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 18th of March 21:15 UTC. View history of
+Science Journal". Updated frequently. Latest update: 19th of March 07:33 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -39,6 +39,29 @@ or [@PowerDNS_Bert](https://twitter.com/PowerDNS_Bert). Many readers are
 sending me a steady stream of updates, please keep it up! Special mention
 for Oliver Germer who appears to be combing the internet for the best data.
 
+Summary
+-------
+For regular readers, here is a summary of the latest (19th of March)
+picture, details are in the rest of the page:
+
+ * All evidence continues to point at COVID-19 being a normal virus to which
+   people develop immunity (but perhaps not lifelong).
+ * It appears there is now a reliable way to test if someone has developed
+   COVID-19 antibodies. This will tell us in a 10-minute test if someone is
+   now likely immune.
+ * Several medicines have now seen encouraging small scale initial trials. 
+   These trials have strong limitations, but if I read the tea leaves right,
+   it seems likely that at least one of these things will pan out.  There is
+   sufficient smoke to suggest a fire.
+ * Many countries have now shown it is possible to suppress local COVID-19
+   transmission, if a country/society/government works hard enough on it,
+   but everyone has to do the work of physical distancing, testing,
+   isolating and treating.
+ * Many vaccines are in development or even earliest forms of testing, but
+   none of the fast trajectories have a strong track record of protecting
+   human beings.
+
+
 Facts
 -----
 Most things COVID-19 are not yet facts because everything is so new. Here is
@@ -65,11 +88,6 @@ performed, shows the difference:
 
 Note that because of the hundreds of thousands of tests in South Korea, they
 have also captured tons of asymptomatic people and not just hospital cases. 
-
-On why it matters to slow down the outbreak, even if we perhaps can't stop
-it, this graph is extremely useful:
-
-{{< figure src="/articles/the-graph.jpg" >}}
 
 This article
 [Coronavirus: Why You Must Act
@@ -354,6 +372,9 @@ vaccines, is [being enticed to work for the US
 exclusively](https://twitter.com/alfonslopeztena/status/1239142131467464704).
 Perhaps they [know something we
 don't](https://www.dw.com/en/germany-and-us-wrestle-over-coronavirus-vaccine-report/a-52777990).
+This story is very messy. CureVac has previously used their technology to
+make [what appears to be a functioning rabies
+vaccine](https://www.globenewswire.com/news-release/2020/01/07/1967108/0/en/CureVac-Announces-Positive-Results-in-Low-Dose-1-%C2%B5g-Rabies-Vaccine-Clinical-Phase-1-Study.html).
 
 A brief word on mRNA-based vaccines. For an DNA/RNA primer, try my earlier
 post '[What is life](https://berthub.eu/articles/posts/what-is-life/)' or
@@ -494,6 +515,9 @@ Ibuprofen/NSAIDs or paracetamol (tylenol, acetominophen), use the latter, a
 recommendation [echoed by the
 WHO](https://www.sciencealert.com/who-recommends-to-avoid-taking-ibuprofen-for-covid-19-symptoms),
 and also by this [BMJ article](https://www.bmj.com/content/368/bmj.m1086).
+19th of March update, WHO [is no longer
+sure](https://twitter.com/WHO/status/1240409217997189128) but does confirm
+there is no data.
 
 There are some unfortunate health authorities, including Dutch ones,
 rubbishing the Ibuprofen warnings - I can't see how they do this since there
@@ -565,6 +589,11 @@ we can read an analysis that indicates that outside of Wuhan, after people
 were warned, the reproduction number of COVID-19 was below 2, even before
 strong measures were implemented. This may also explain some of the relative
 ease of keeping things under control in China, but unsure. 
+
+There is a [good and informed 19th of Match Twitter
+thread](https://twitter.com/trvrb/status/1240444831605747712) by Trevor
+Bedford (a scientist who studies viruses, evolution and immunity) on keeping
+society running with COVID-19.
 
 Wild speculation ends here!
 
