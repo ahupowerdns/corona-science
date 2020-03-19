@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 19th of March 07:33 UTC. View history of
+Science Journal". Updated frequently. Latest update: 19th of March 08:33 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -264,7 +264,9 @@ early days, but the result is not implausible.
 17th of March third update, a trial of favipiravir has finished in China,
 with some encouraging results: [The results have shown patients treated with favipiravir took four days before being tested negative, whereas the control group took 11
 days.](http://www.chinadaily.com.cn/a/202003/17/WS5e708666a31012821727fcbd.html).
-This is a press report and not a preprint.
+This is a press report and not a preprint. 19th of March, some further press
+in [The
+Guardian](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china).
 
 18th of March, here is [some more reporting on
 hydroxycloroquine(/Azithromycin)
