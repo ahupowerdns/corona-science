@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 20th of March 14:50 UTC. View history of
+Science Journal". Updated frequently. Latest update: 20th of March 17:37 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -311,7 +311,13 @@ treatment plans (like the Dutch one) default to chloroquine since it is better k
 I hope hydroxychloroquine will also be tried! 
 
 Note that despite Donald Trump's enthusiasm, we still have no data on the actual effectiveness of
-'hclq' or 'clq' in treatment.
+'hclq' or 'clq' in treatment. 
+
+20th of March update: A thread by the incomparable 
+[@DGlaucomflecken](https://twitter.com/DGlaucomflecken/) on the effects on eye-sight for short
+term treatment can be found
+[here](https://twitter.com/DGlaucomflecken/status/1241048819212550144). In
+short: this should not be a problem.
 
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
