@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 20th of March 12:24 UTC. View history of
+Science Journal". Updated frequently. Latest update: 20th of March 14:50 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -773,6 +773,9 @@ send them.
    disease.
  * Why is COVID-19 so lethal in Italy? (appears to be lots of infections among very old
    people, and by now (10th of March) an overwhelmed healthcare system)
+ * Why is COVID-19 so lethal in The Netherlands? Why does The Netherlands
+   have 200 people in intensive care whereas Austria, with slightly fewer
+   people testing positive, has 17? (20th of March)
  * Pure speculation: Hypertension is a major major risk factor for dying from COVID-19. COVID-19 uses the ACE2 receptor for entry into cells. Common
    high blood pressure medications increase expression of ACE2 mRNA. Here is some [speculation in a BMJ response
    letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these medicines could possibly make things worse for users. Very speculative.
@@ -780,7 +783,7 @@ send them.
    Edition](http://www.nephjc.com/news/covidace2).
  * Why is COVID-19 almost non-lethal in Germany? 20th of March update: [this
    FT article](https://www.ft.com/content/c0755b30-69bb-11ea-800d-da70cff6e4d3)
-   notes Germany is doing 160k tests a week, which is more than Germany. 
+   notes Germany is doing 160k tests a week, which is more than Korea. 
  * How can China be reporting only double digit new infections? Has China actually restarted its society?
    [Perhaps not so much](https://twitter.com/NAChristakis/status/1237020524934463488).
    As of March 12th this is becoming somewhat of a bigger mystery since
