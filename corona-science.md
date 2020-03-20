@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-19T07:16:25+01:00
+date: 2020-03-20T09:16:25+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 19th of March 21:10 UTC. View history of
+Science Journal". Updated frequently. Latest update: 20th of March 09:46 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -52,7 +52,8 @@ picture, details are in the rest of the page:
  * Several medicines have now seen encouraging small scale initial trials. 
    These trials have strong limitations, but if I read the tea leaves right,
    it seems likely that at least one of these things will pan out.  There is
-   sufficient smoke to suggest a fire.
+   sufficient smoke to suggest a fire. But despite what Trump says, we are
+   very much not out of the woods yet.
  * Many countries have now shown it is possible to suppress local COVID-19
    transmission, if a country/society/government works hard enough on it,
    but everyone has to do the work of physical distancing, testing,
@@ -60,7 +61,9 @@ picture, details are in the rest of the page:
  * Many vaccines are in development or even earliest forms of testing, but
    none of the fast trajectories have a strong track record of protecting
    human beings.
-
+ * A veritable [TORRENT OF SCIENCE](https://cerahgeneve.ch/resources/covid-19-free-online-scientific-resources/?_ga=2.226059738.1105476567.1584628506-799341908.1584628506)
+   is happening. In this link every relevant paper is briefly annotated, and
+   there are frequent updates.
 
 Facts
 -----
@@ -297,7 +300,10 @@ on various national treatment strategies.
 It appears [hydroxychloroquine is 5 times more effective in
 vitro](https://www.ncbi.nlm.nih.gov/pubmed/32150618) but many national
 treatment plans (like the Dutch one) default to chloroquine since it is better known.
-I hope hydroxychloroquine will also be tried!
+I hope hydroxychloroquine will also be tried! 
+
+Note that despite Donald Trump's enthusiasm, we still have no data on the actual effectiveness of
+'hclq' or 'clq' in treatment.
 
 Some slight optimism on Remdesivir can be found [in this Guardian
 article](https://www.theguardian.com/world/2020/mar/10/hopes-rise-over-experimental-drugs-effectiveness-against-coronavirus)
@@ -699,6 +705,11 @@ These graphs take some processing and are not up to the minute, but they do
 show the numbers we need to know. Other sites may be more exciting, but I prefer
 [this one](https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html)!
 
+(In an interesting twist, one of the key people behind this project tested
+[positively for Corona, but he tells us he is only feeling
+"rough"](https://twitter.com/neil_ferguson/status/1240243109897949184) and is
+working from home)
+
 Recent interesting papers
 -------------------------
 Papers (actually non-peer reviewed preprints) that look interesting, but
@@ -716,6 +727,10 @@ have not been (fully) absorbed into a specific section of this page:
    **9 ICU patients and 20 inpatients on each day**"
  * 14th of March: [A human monoclonal 1 antibody blocking SARS-CoV-2 infection](https://www.biorxiv.org/content/10.1101/2020.03.11.987958v1).
    Details how work on SARSv1 helped find a '-mab' that blocks COVID-19.
+ * 16th of March: [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus](https://www.ncbi.nlm.nih.gov/pubmed/32179701)
+   argues persuasively that much of the transmission was from "undocumented"
+   patients. This does not mean these patients were symptom-free, but they
+   never got tested.
 
 Twitter must-follows
 --------------------
@@ -755,11 +770,14 @@ send them.
    letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these medicines could possibly make things worse for users. Very speculative.
    A great summary of the situation: [The Coronavirus Conundrum: ACE2 and Hypertension
    Edition](http://www.nephjc.com/news/covidace2).
- * Why is COVID-19 almost non-lethal in Germany??
+ * Why is COVID-19 almost non-lethal in Germany? 20th of March update: [this
+   FT article](https://www.ft.com/content/c0755b30-69bb-11ea-800d-da70cff6e4d3)
+   notes Germany is doing 160k tests a week, which is more than Germany. 
  * How can China be reporting only double digit new infections? Has China actually restarted its society?
    [Perhaps not so much](https://twitter.com/NAChristakis/status/1237020524934463488).
    As of March 12th this is becoming somewhat of a bigger mystery since
-   China is now reporting *single* digit case numbers from Wuhan.
+   China is now reporting *single* digit case numbers from Wuhan. 20th of
+   March, or 0 cases now. Hard to believe. 
  * The Mask Question: all of Asia believes in wearing masks, the rest of the
    world tells us to leave the masks to professionals. What is it?
 
