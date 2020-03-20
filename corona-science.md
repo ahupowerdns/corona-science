@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 20th of March 09:46 UTC. View history of
+Science Journal". Updated frequently. Latest update: 20th of March 12:24 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -107,6 +107,14 @@ One may wonder if [the pretty low
 numbers](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 from warmer and more humid countries are fake (perhaps outright faked, or
 just not doing testing), but they will eventually tell us a story.
+
+The countries to watch are those that are less organized or have less
+resources to fight an epidemic, but are currently having hot and humid
+weather, without universal air conditioning.  Large outbreaks are very hard
+to hide, and can even be seen [from
+space](https://www.washingtonpost.com/graphics/2020/world/iran-coronavirus-outbreak-graves/).
+An absence of such a large outbreak would be a strong data point that warmer
+weather might _help_. 
 
 Watching this one closely. There are papers that argue either side (it
 [will help](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550308)/[it won't
