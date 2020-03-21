@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-20T09:16:25+01:00
+date: 2020-03-21T09:14:45+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 20th of March 17:37 UTC. View history of
+Science Journal". Updated frequently. Latest update: 21st of March 14:49 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -437,10 +437,13 @@ course of the disease.
 
 Vaccines
 --------
-To be honest I have little clue.  There is frantic ongoing activity by dozens of
-groups and companies.  We don't currently know if any of these vaccines will
-work (safely), nor how quickly they can be produced if they do.  Also, who
-would get them?  Countries turn very nasty over such things.
+To be honest I have little clue.  There is frantic ongoing activity by
+dozens of groups and companies.  The WHO lists [41 (or
+42)](https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus-landscape-ncov.pdf?ua=1
+) active [efforts](https://twitter.com/ViralRNA/status/1241375504172793858). 
+We don't currently know if any of these vaccines will work (safely), nor how
+quickly they can be produced if they do.  Also, who would get them? 
+Countries turn very nasty over such things.
 
 Some good discussion on vaccines and other treatments can be found [in this
 Science
