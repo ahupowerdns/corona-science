@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 21st of March 14:49 UTC. View history of
+Science Journal". Updated frequently. Latest update: 21st of March 15:05 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -386,6 +386,10 @@ paper](https://twitter.com/DrPujaMehta1/status/1238541499543011328).
 17th of March update, Italy is launching a [330-patient Tocilizumab
 trial](https://www.labussolanews.it/2020/03/17/tocilizumab-si-dellaifa-a-studio-sperimentale/) after some
 further positive experiences in several hospitals.
+
+21st of Match update, Roche is [launching a clinical
+trial](https://www.fiercepharma.com/pharma/roche-launches-clinical-trial-covid-19-pneumonia-hopeful-actemra-after-backing-from-china)
+in April.
 
 In short, these medicines do not specifically kill or inhibit the virus, but
 they aim to help fight off its effects & keep the patient alive.
