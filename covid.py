@@ -21,26 +21,26 @@ plt.rcParams['figure.figsize'] = [9.5, 5]
 import pandas
 
 
-# In[150]:
+# In[194]:
 
 
-data=pandas.read_csv("/home/ahu/Downloads/Coronavirus in Nederland per gemeente - Gemeenten_alfabetisch_2019.csv")
+data=pandas.read_csv("/home/ahu/Downloads/Jelmer Vissers's Coronavirus in Nederland per gemeente (weekend update door bert hubert) - Gemeenten_alfabetisch_2019(1).csv")
 data = data[data.Provincienaam != "Nvt"]
 data= data[data.Provincienaam.notnull()]
 data.head()
 
 
-# In[151]:
+# In[195]:
 
 
 north=["Noord-Holland", "Zuid-Holland", "Drenthe", "Flevoland", "Gelderland", "Groningen", "Friesland", "Utrecht", "Overijssel"]
 south=["Limburg", "Noord-Brabant", "Zeeland"]
 
 
-# In[152]:
+# In[196]:
 
 
-days=range(1,21)
+days=range(1,23)
 arr={'day': [], 'count':[], 'province':[]}
 for prov in data["Provincienaam"].unique():
     zh=data[data["Provincienaam"]==prov]
@@ -51,7 +51,7 @@ for prov in data["Provincienaam"].unique():
         arr["province"].append(prov)
 
 
-# In[153]:
+# In[197]:
 
 
 zh=data[data["Provincienaam"].isin(north)]
@@ -72,7 +72,7 @@ df = pandas.DataFrame(data=arr)
 df.sort_values("count", inplace=True)
 
 
-# In[154]:
+# In[198]:
 
 
 plt.figure()
@@ -88,7 +88,7 @@ plt.ylim(0,100)
 plt.legend(loc=2)
 
 
-# In[155]:
+# In[206]:
 
 
 plt.figure()
@@ -102,11 +102,12 @@ plt.grid()
 plt.xlabel("Day in March")
 plt.ylabel("2-day smoothed growth percentage")
 plt.ylim(0)
+plt.xlim(0, 30)
 plt.legend()
-plt.title("Daily growth COVID-19+ tests for the north and the south (NB, Zeeland, Limburg) of The Netherlands")
+plt.title("Daily growth COVID-19 pos. tests for north/south (NB, Zeeland, Limburg) of The Netherlands, 22nd of March")
 
 
-# In[156]:
+# In[200]:
 
 
 plt.figure()
@@ -120,6 +121,24 @@ plt.grid()
 plt.xlabel("Day in March")
 plt.ylabel("2-day smoothed number")
 plt.ylim(0)
+plt.legend()
+plt.title("COVID-19+ tests for the north and the south (NB, Zeeland, Limburg) of The Netherlands")
+
+
+# In[201]:
+
+
+plt.figure()
+
+for prov in [ "north", "south"]:
+    #print(df[df.province==prov].sort_values("day"))
+    sel=df[df.province==prov].sort_values("day")
+    plt.plot(sel.day, sel["count"], label=prov)
+  
+plt.grid()
+plt.xlabel("Day in March")
+plt.ylabel("Absolute number")
+plt.yscale("log")
 plt.legend()
 plt.title("COVID-19+ tests for the north and the south (NB, Zeeland, Limburg) of The Netherlands")
 
