@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-21T09:14:45+01:00
+date: 2020-03-23T00:09:45+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 21st of March 15:05 UTC. View history of
+Science Journal". Updated frequently. Latest update: 22nd of March 23:10 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -556,6 +556,7 @@ Some governments are publishing their guidelines, sometimes even in English:
  * [Dutch treatment guidelines](https://lci.rivm.nl/covid-19/bijlage/medicamenteuze-behandelopties) - in Dutch, but quite thorough. Updated every few days.
  * [Belgian guidelines, in English!](https://epidemio.wiv-isp.be/ID/Documents/Covid19/COVID-19_InterimGuidelines_Treatment_ENG.pdf)
  * [Italian guidelines, in Italian](http://www.simit.org/medias/1569-covid19-vademecum-13-03-202.pdf).
+ * [UK guidelines](https://www.nice.org.uk/guidance/conditions-and-diseases/infections/covid-19)
 
 The Chinese guidelines briefly discuss Tocilizumab.
 
@@ -803,5 +804,6 @@ send them.
    China is now reporting *single* digit case numbers from Wuhan. 20th of
    March, or 0 cases now. Hard to believe. 
  * The Mask Question: all of Asia believes in wearing masks, the rest of the
-   world tells us to leave the masks to professionals. What is it?
+   world tells us to leave the masks to professionals. What is it? Zeynep Tufekci
+   weighs in [here](https://twitter.com/zeynep/status/1239903421970501640?s=21).
 
