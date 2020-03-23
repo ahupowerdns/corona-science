@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-23T00:09:45+01:00
+date: 2020-03-23T11:09:45+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 22nd of March 23:10 UTC. View history of
+Science Journal". Updated frequently. Latest update: 23rd of March 11:10 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -363,6 +363,33 @@ and ignores that 3 patients dropped out of the trial because they were too
 ill, but even if you take out these 3 patients, the results are suggestive
 of an effect. 
 
+Could some medicines be making COVID-19 worse?
+----------------------------------------------
+Pure speculation: Hypertension is a major major risk factor for dying from
+COVID-19.  COVID-19 uses the ACE2 receptor for entry into cells.  Common
+high blood pressure medications increase expression of ACE2 mRNA.  Here is
+some [speculation in a BMJ response letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these
+medicines could possibly make things worse for users.  Very speculative. 
+A great summary of the situation: [The Coronavirus Conundrum: ACE2 and
+Hypertension Edition](http://www.nephjc.com/news/covidace2).
+
+Heart and bloodpressure professional bodies [have been swift in stating there is nothing wrong with the
+existing
+medications](https://images.squarespace-cdn.com/content/v1/535bcb2fe4b05fe61b320c51/1584501925512-0LRSVJXDIHNZEVD35L83/ke17ZwdGBToddI8pDm48kAlck2SwbQNxbms6eJbnQIF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmsQfPZgDkalI6sNLtYZaKZ-KuwE5n-xNoyohiQvZ6tVxwU2nAllDLLv00_W3E-Il-/update.png?format=750w)
+(from the 'Coronavirus Conundrum').
+
+Meanwhile the incomparable MD Malcolm Kendrick (I'm biased, he's one of my
+heroes) has weighed in. By parsing Italian statistics he has derived it is
+likely &gt;52% of COVID-19 deceased patients were on either ACE inhibitors
+or ARB therapy. 
+
+Through further reasonable assumptions, he derives that only 14% of the
+general older population in Italy are likely taking these two drug classes.
+
+[This does appear to be rather strong data
+point](https://drmalcolmkendrick.org/2020/03/22/covid-19-update/#comments)
+although it would be wonderful if we also had numbers on alternate
+hypertension medicines. 
 
 Supportive medicine
 -------------------
@@ -790,11 +817,7 @@ send them.
  * Why is COVID-19 so lethal in The Netherlands? Why does The Netherlands
    have 200 people in intensive care whereas Austria, with slightly fewer
    people testing positive, has 17? (20th of March)
- * Pure speculation: Hypertension is a major major risk factor for dying from COVID-19. COVID-19 uses the ACE2 receptor for entry into cells. Common
-   high blood pressure medications increase expression of ACE2 mRNA. Here is some [speculation in a BMJ response
-   letter](https://www.bmj.com/content/368/bmj.m810/rr-2) on if these medicines could possibly make things worse for users. Very speculative.
-   A great summary of the situation: [The Coronavirus Conundrum: ACE2 and Hypertension
-   Edition](http://www.nephjc.com/news/covidace2).
+
  * Why is COVID-19 almost non-lethal in Germany? 20th of March update: [this
    FT article](https://www.ft.com/content/c0755b30-69bb-11ea-800d-da70cff6e4d3)
    notes Germany is doing 160k tests a week, which is more than Korea. 
@@ -806,4 +829,6 @@ send them.
  * The Mask Question: all of Asia believes in wearing masks, the rest of the
    world tells us to leave the masks to professionals. What is it? Zeynep Tufekci
    weighs in [here](https://twitter.com/zeynep/status/1239903421970501640?s=21).
+   Meanwhile the Cochrane review has [the
+   following](https://www.cochranelibrary.com/cca/doi/10.1002/cca.2965/full)
 
