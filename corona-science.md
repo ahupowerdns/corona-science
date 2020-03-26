@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-23T11:09:45+01:00
+date: 2020-03-26T11:09:45+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,11 +10,17 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Updated frequently. Latest update: 23rd of March 11:10 UTC. View history of
+Science Journal". Latest update: 26th of March 20:07 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
 you can also submit changes, fixes and updates.
+
+> Note: I have been unable to keep up with the latest developments as I have
+> shifted my efforts to a Dutch-language daily blog about positive COVID-19
+> developments, while keeping it real. You can read it
+> [here](https://berthub.eu/articles/posts/de-dagelijkse-corona-update/).
+> Google Translate does a surprisingly good job on this.
 
 There is [sufficient other
 content](https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/) out there that aims to tell you if things
@@ -51,7 +57,7 @@ picture, details are in the rest of the page:
    now likely immune.
  * Several medicines have now seen encouraging small scale initial trials. 
    These trials have strong limitations, but if I read the tea leaves right,
-   it seems likely that at least one of these things will pan out.  There is
+   it seems likely that at least a few of these things will pan out.  There is
    sufficient smoke to suggest a fire. But despite what Trump says, we are
    very much not out of the woods yet.
  * Many countries have now shown it is possible to suppress local COVID-19
