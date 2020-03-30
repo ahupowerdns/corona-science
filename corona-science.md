@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 30th of March 11:07 UTC. View history of
+Science Journal". Latest update: 30th of March 11:34 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -167,14 +167,19 @@ papers](https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/
    nose and mouth will reduce the rate at which you spread the virus, should
    you have it.
    * You won't know you have it for the first few days, but you can still
-   spread it. Assume you are infected.
+   spread it.  Many many COVID-19 patients are completely asymptomatic, but
+   still spread the virus.  So assume you are infected.
    * You don't need a medical mask to achieve a good effect
  * Very moderate evidence if a mask might protect you individually.
 
 The above seems to be uncontroversial, but it flies in the face of previous
-non-Asian government messaging. The public health story is also very
-difficult. If people assume a mask protects them, they might start going out
-more, possibly defeating the effect of reduced transmission.
+non-Asian government messaging.  Czechia and
+[Austria](https://www.reuters.com/article/us-health-coronavirus-austria/austria-to-make-basic-face-masks-compulsory-in-supermarkets-idUSKBN21H16A)
+now recommend masks.
+
+The public health story is also very difficult.  If people assume a mask
+protects them, they might start going out more, possibly defeating the
+effect of reduced transmission.
 
 Very clear messaging will be required.
 
