@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 30th of March 10:50 UTC. View history of
+Science Journal". Latest update: 30th of March 11:07 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -177,6 +177,20 @@ difficult. If people assume a mask protects them, they might start going out
 more, possibly defeating the effect of reduced transmission.
 
 Very clear messaging will be required.
+
+Risk factors
+------------
+Many statistics are now available on who is dying or being ventilated, but
+not many clear things are emerging beyond "try not to be old". There is a
+lot of noise too. Many old people are hypertensive, many old people are
+overweight/obese, we need better statistics to try to filter out if there
+are signals in there. 
+
+One relatively clear signal appears to be that [smokers are at a far greater
+risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7083240/). The data is
+not that strong yet, but now is a great time to stop smoking. Now is also a
+great time not to take more risk because you are not a smoker, since the
+data is not _that_ strong.
 
 Interesting trials
 ------------------
