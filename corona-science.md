@@ -1,6 +1,6 @@
 ---
 title: "Corona Science Journal"
-date: 2020-03-26T11:09:45+01:00
+date: 2020-03-30T11:09:45+01:00
 draft: false
 ---
 <meta name="twitter:card" content="summary_large_image">
@@ -10,7 +10,7 @@ draft: false
 <meta name="twitter:description" content="An overview of the latest scientific and treatment developments of COVID-19, updated frequently, including links to original sources, preprints and papers">
 <meta name="twitter:image" content="http://berthub.eu/articles/death-rate-feature.png">
 Hello and welcome to this stream of consciousness I dare to call "the Corona
-Science Journal". Latest update: 26th of March 20:07 UTC. View history of
+Science Journal". Latest update: 30th of March 10:50 UTC. View history of
 this page [on
 GitHub](https://github.com/ahupowerdns/corona-science/commits/master)
 ([RSS](https://github.com/ahupowerdns/corona-science/commits/master/corona-science.md.atom)), where
@@ -45,16 +45,21 @@ or [@PowerDNS_Bert](https://twitter.com/PowerDNS_Bert). Many readers are
 sending me a steady stream of updates, please keep it up! Special mention
 for Oliver Germer who appears to be combing the internet for the best data.
 
+Notes
+-----
+I have removed links to the French hydroxychloroquine work. Drug might still
+work, but we can't tell based on that data.
+
 Summary
 -------
-For regular readers, here is a summary of the latest (19th of March)
+For regular readers, here is a summary of the latest (30th of March)
 picture, details are in the rest of the page:
 
  * All evidence continues to point at COVID-19 being a normal virus to which
-   people develop immunity (but perhaps not lifelong).
+   people develop immunity (but likely not lifelong).
  * It appears there is now a reliable way to test if someone has developed
    COVID-19 antibodies. This will tell us in a 10-minute test if someone is
-   now likely immune.
+   now likely immune. Update: many actual tests appear not to be reliable.
  * Several medicines have now seen encouraging small scale initial trials. 
    These trials have strong limitations, but if I read the tea leaves right,
    it seems likely that at least a few of these things will pan out.  There is
@@ -136,6 +141,43 @@ Some discussion is in this [AP article on Snopes.com
 The inestimable Marc Lipsitch has also weighed in: [Seasonality of SARS-CoV-2: Will COVID-19 go away on its own in warmer
 weather?: tl;dr: probably not](https://ccdd.hsph.harvard.edu/will-covid-19-go-away-on-its-own-in-warmer-weather/).
 
+Update 30th of March: If I speculate a bit (beware!), I personally think
+that we can see that warmer more humid countries are having a slightly
+easier time.  This is congruent with the reproduction number being somewhat
+depressed there, even without further measures. Still means strong measures
+are necessary, but they may be more effective. Speculation ends.
+
+Masks
+-----
+Previously noted at the very end of this page:
+
+ * The Mask Question: all of Asia believes in wearing masks, the rest of the
+   world tells us to leave the masks to professionals. What is it? Zeynep Tufekci
+   weighs in [here](https://twitter.com/zeynep/status/1239903421970501640?s=21).
+   Meanwhile the Cochrane review has [the
+   following](https://www.cochranelibrary.com/cca/doi/10.1002/cca.2965/full)
+
+[Based on 34
+papers](https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/), it is
+[now starting to look like](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow):
+
+ * Best way not to spread COVID-19 is not to be close to people.
+   No mask is better than this. Full stop.
+ * If you have to go out and can't avoid it, almost anything covering your
+   nose and mouth will reduce the rate at which you spread the virus, should
+   you have it.
+   * You won't know you have it for the first few days, but you can still
+   spread it. Assume you are infected.
+   * You don't need a medical mask to achieve a good effect
+ * Very moderate evidence if a mask might protect you individually.
+
+The above seems to be uncontroversial, but it flies in the face of previous
+non-Asian government messaging. The public health story is also very
+difficult. If people assume a mask protects them, they might start going out
+more, possibly defeating the effect of reduced transmission.
+
+Very clear messaging will be required.
+
 Interesting trials
 ------------------
 Many trials are currently happening or being launched. Running a good trial
@@ -191,6 +233,7 @@ that are interesting:
    quickly after potential exposure](https://clinicaltrials.gov/ct2/show/NCT04308668?cond=%22wuhan+coronavirus%22&sfpd_s=03%2F03%2F2020&sfpd_d=14&sel_rss=new14) might be protective.
    This one is very exciting since it offers a potential strategy that could
    prevent significant harm.
+ * An overview up to date until the 20th of March is [here](https://covid-nma.com/studies-registered/)
 
 Please [contact me](https://berthub.eu) is you know of more interesting
 trials - I mostly pick up local ones on my own.
@@ -306,18 +349,16 @@ medicine, but with side effects and contra-indications), with an honerable menti
 [Camostat](https://www.pharmaceutical-technology.com/news/german-researchers-covid-19-drug/),
 which is already approved in Japan for other treatments.
 
-See below for the latest updates on (hydroxy)chloroquine. A lot of
-information and some optimism can be found in this [Google
-Doc](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
-on various national treatment strategies.
-
 It appears [hydroxychloroquine is 5 times more effective in
 vitro](https://www.ncbi.nlm.nih.gov/pubmed/32150618) but many national
 treatment plans (like the Dutch one) default to chloroquine since it is better known.
 I hope hydroxychloroquine will also be tried! 
 
 Note that despite Donald Trump's enthusiasm, we still have no data on the actual effectiveness of
-'hclq' or 'clq' in treatment. 
+'hclq' or 'clq' in treatment. Some of the data coming from France is highly
+suspect, so it can't be relied on. That does not mean the drug is not
+effective however - we still just don't know. There are plausible reasons
+why 'hclq + zinc' might work, for example.
 
 20th of March update: A thread by the incomparable 
 [@DGlaucomflecken](https://twitter.com/DGlaucomflecken/) on the effects on eye-sight for short
@@ -345,29 +386,12 @@ tweet](https://twitter.com/CasasolaGarcia/status/1238539079412834305).
 idea](https://clinicaltrials.gov/ct2/show/NCT04308668?cond=%22wuhan+coronavirus%22&sfpd_s=03%2F03%2F2020&sfpd_d=14&sel_rss=new14)
 so at least I am not alone in speculating.
 
-17th of March second update, [a limited experiment on 24 patients in a French
-hospital](https://www.20minutes.fr/sante/2742011-20200317-coronavirus-hydroxychloroquine-efficace-selon-professeur-raoult-ihu-marseille-apres-premier-test-restreint)
-combined hydroxychloroquine (trade name Plaquenil) and an antibiotic known
-to have anti-viral effects (Azithromycin), with positive results.  It is
-early days, but the result is not implausible.
-
 17th of March third update, a trial of favipiravir has finished in China,
 with some encouraging results: [The results have shown patients treated with favipiravir took four days before being tested negative, whereas the control group took 11
 days.](http://www.chinadaily.com.cn/a/202003/17/WS5e708666a31012821727fcbd.html).
 This is a press report and not a preprint. 19th of March, some further press
 in [The
 Guardian](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china).
-
-18th of March, here is [some more reporting on
-hydroxycloroquine(/Azithromycin)
-trials](https://www.connexionfrance.com/French-news/French-researcher-in-Marseille-posts-successful-Covid-19-coronavirus-drug-trial-results).
-
-18th of March, second update,
-[Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial](https://drive.google.com/file/d/186Bel9RqfsmEx55FDum4xY_IlWSHnGbj/view)
-is a paper on the French trial. It is slightly too bombastic for my taste
-and ignores that 3 patients dropped out of the trial because they were too
-ill, but even if you take out these 3 patients, the results are suggestive
-of an effect. 
 
 Could some medicines be making COVID-19 worse?
 ----------------------------------------------
@@ -797,6 +821,10 @@ of highly responsible, very high signal-to-noise ratio tweeters:
  * [@mlipsitch](https://twitter.com/mlipsitch), Marc Lipsitch, Infectious disease epidemiologist and microbiologist, Harvard.
  * [@HelenBranswell](https://twitter.com/HelenBranswell), Senior writer, infectious diseases at
  the excellent [Statnews.com](https://statnews.com).
+ * [@RichardLehman1](https://twitter.com/RichardLehman1), the master
+ reviewer of medical journals is back! Richard is someone I wish we had
+ more of - an actual (retired) healthcare professional who is also an
+ academic. 
 
 Another outstanding follow is [@COVID_Evidence](https://twitter.com/COVID_Evidence)
 which live-tweets the latest preprints and clinical trials.
@@ -823,7 +851,6 @@ send them.
  * Why is COVID-19 so lethal in The Netherlands? Why does The Netherlands
    have 200 people in intensive care whereas Austria, with slightly fewer
    people testing positive, has 17? (20th of March)
-
  * Why is COVID-19 almost non-lethal in Germany? 20th of March update: [this
    FT article](https://www.ft.com/content/c0755b30-69bb-11ea-800d-da70cff6e4d3)
    notes Germany is doing 160k tests a week, which is more than Korea. 
@@ -832,9 +859,3 @@ send them.
    As of March 12th this is becoming somewhat of a bigger mystery since
    China is now reporting *single* digit case numbers from Wuhan. 20th of
    March, or 0 cases now. Hard to believe. 
- * The Mask Question: all of Asia believes in wearing masks, the rest of the
-   world tells us to leave the masks to professionals. What is it? Zeynep Tufekci
-   weighs in [here](https://twitter.com/zeynep/status/1239903421970501640?s=21).
-   Meanwhile the Cochrane review has [the
-   following](https://www.cochranelibrary.com/cca/doi/10.1002/cca.2965/full)
-
